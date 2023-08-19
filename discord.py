@@ -63,5 +63,5 @@ async def on_voice_state_update(member, before, after):
     pass
 
 # Replace 'TOKEN' with your actual bot token
-TOKEN = 'MTA0NTQ4NTgzNTg5OTkxMjIzMg.GkQmg6.MR73sgVmDAESjCrXsKQbxscS3ta0l_1TIUbmr4'
+TOKEN = 'your_token_here'
 bot.run(TOKEN)
