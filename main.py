@@ -1,4 +1,3 @@
-```py
 import discord
 from discord.ext import commands
 import random
@@ -92,4 +91,3 @@ async def on_voice_state_update(member, before, after):
 
 # Replace 'YOUR_ACTUAL_BOT_TOKEN' with your bot's actual token
 bot.run('your_token')
-```
