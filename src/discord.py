@@ -1,4 +1,4 @@
-import discord
+import src.discord as discord
 from discord.ext import commands
 
 # Set up bot with custom command prefix 'k!'

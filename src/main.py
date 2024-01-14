@@ -1,4 +1,5 @@
-import discord
+# Main
+import src.discord as discord
 from discord.ext import commands
 import random
 

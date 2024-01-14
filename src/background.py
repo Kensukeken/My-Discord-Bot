@@ -1,6 +1,6 @@
 from discord.ext import tasks
 
-import discord
+import src.discord as discord
 
 
 class MyClient(discord.Client):
