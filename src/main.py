@@ -2,6 +2,7 @@
 import src.discord as discord
 from discord.ext import commands
 import random
+import os
 
 # Description for the bot
 description = '''Hello! I'm here to help you with various commands.
@@ -91,4 +92,4 @@ async def on_voice_state_update(member, before, after):
     pass
 
 # Replace 'YOUR_ACTUAL_BOT_TOKEN' with your bot's actual token
-bot.run('your_token')
+bot.run('MTA0NTQ4NTgzNTg5OTkxMjIzMg.GON_hZ.7ar6F0AAisgvFlyMe_Z6Y54gToEzt6iIVNRPAw')
